@@ -81,4 +81,4 @@ Tech Stack: Python • XGBoost • TA-Lib / Pandas-TA • Scikit-learn • CCXT 
 ## 📬 Contact & Connect
 
 - **GitHub**: [@sandaruariyaratne](https://github.com/sandaruariyaratne)
-- **LinkedIn**: [Sandaru Ariyaratne](https://www.linkedin.com/in/sandaru-ariyaratne)
+- **LinkedIn**: [Sandaru Ariyaratne](https://www.linkedin.com/in/sandaruariyaratne)
